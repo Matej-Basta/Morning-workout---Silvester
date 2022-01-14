@@ -15,10 +15,13 @@ body {
 
 h1 {
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 5rem;
   margin-top: 5rem;
   margin-left: 12rem;
   margin-bottom: 2rem;
+  background: -webkit-linear-gradient(180deg, red, #000, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 img {
