@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("bg.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-top: 5rem;
+  margin-left: 12rem;
+  margin-bottom: 2rem;
+}
+
+img {
+  position: relative;
+  left: 55%;
+  width: 28rem;
+  height: auto;
+  bottom: 13rem;
+}
+
+p {
+  width: 25rem;
+  font-size: 1.5rem;
+  margin-left: 12rem;
+}
